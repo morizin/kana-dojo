@@ -15,7 +15,7 @@
     "meaning": "Feel indebted or unable to oppose someone. (Set 1)",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腰が重い",
@@ -51,7 +51,7 @@
     "meaning": "Impatient temperament. (Set 1)",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腹が立つ",
@@ -69,7 +69,7 @@
     "meaning": "Do less than one should. (Set 1)",
     "id": 8,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "目がない",
@@ -87,7 +87,7 @@
     "meaning": "Quick to hear news/gossip. (Set 1)",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "足を引っ張る",
@@ -96,7 +96,7 @@
     "meaning": "Hold someone back. (Set 1)",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "骨が折れる",
@@ -105,7 +105,7 @@
     "meaning": "Requires considerable effort. (Set 1)",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が進まない",
@@ -113,7 +113,7 @@
     "english": "Spirit doesn't proceed",
     "meaning": "Not feel like doing it. (Set 1)",
     "id": 13,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
