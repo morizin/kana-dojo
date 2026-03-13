@@ -379,7 +379,7 @@
     "note": "Okinawan gratitude expression. (Set 2)",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -388,7 +388,7 @@
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 2)",
     "id": 39,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
